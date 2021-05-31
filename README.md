@@ -13,12 +13,19 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperMalow)](https://github.com/SuperMalow/github-readme-stats)
-
-<br>
-
-
+<center>
+    <figure>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperMalow)](https://github.com/SuperMalow/github-readme-stats)
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperMalow)](https://github.com/SuperMalow/github-readme-stats)
+    </figure>
+    <center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperMalow)](https://github.com/SuperMalow/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperMalow)](https://github.com/SuperMalow/github-readme-stats)
+
+
+
+
 
 <br>
