@@ -9,16 +9,12 @@
 * 如果有兴趣，还请欢迎光临我的博客 [SuperMalow's Blog](http://1.116.79.113/wordpress/) 🎊🎊🎊🎊🎊🎊
 
 
-## Tech Stack :computer:
+## Small Show :computer:
 
 <br>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperMalow&layout=compact)](https://github.com/SuperMalow/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperMalow&count_private=true&show_icons=true)](https://github.com/SuperMalow/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperMalow&layout=compact)](https://github.com/SuperMalow/github-readme-stats)
 
 <br>
