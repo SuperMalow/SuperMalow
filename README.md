@@ -6,7 +6,6 @@
 * 喜欢研究一些新鲜的事物:globe_with_meridians:，喜欢网抑云🎶，玩游戏:video_game: , ​ ​ 踢足球:soccer:,
 * 平常上完课的活动是写写代码🤪,  干干饭:rice_ball:
   
-* 如果有兴趣，还请欢迎光临我的博客 [SuperMalow's Blog](http://49.235.236.22) 🎊🎊🎊🎊🎊🎊
 
 
 ## Small Show :computer:
